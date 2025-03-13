@@ -158,7 +158,6 @@
 								<li><a href="#">FAQs</a></li>
 								<li><a href="#">Help center</a></li>
 							</ul>
-						</div>
 						<div class="col-sm-6 col-md-2">
 							<h3>Commulity</h3>
 							<ul>
