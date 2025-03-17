@@ -208,7 +208,6 @@ packages:
   matcher:
     dependency: transitive
     description:
-      name: matcher
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.10-nullsafety.1"
