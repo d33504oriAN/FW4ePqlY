@@ -38,7 +38,6 @@
 - Added Invoke-AmsiBypass to the Bypass directory.
 0.7.0
 - Added Invoke-SSIDExfil to the Gather directory. 
-- Gupt-Backdoor can now receive commands from SSID names on targets having PowerShellv3 and above.
  - Added ConverTo-ROT13 to the Utility directory.
 0.6.9
 - Get-PassHashes now uses Reflection. Thanks to Zer1t0 on GitHub.
