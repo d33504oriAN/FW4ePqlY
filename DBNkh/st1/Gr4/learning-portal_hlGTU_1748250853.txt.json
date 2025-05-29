@@ -4,7 +4,6 @@
   "courses": [
     {
       "external_link": "https://learn.openshift.com/ai-machine-learning/jupyter-notebooks/",
-      "course_id": "jupyter-notebooks",
       "title": "Deploying a Jupyter Notebook Image"
     },
     {
